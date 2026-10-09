@@ -4,8 +4,7 @@
 
   <h3>当前项目</h3>
   <p>
-    <strong>MizuLauncherAura</strong>: 正在积极开发中，敬请期待！<br>
-    <a href="https://github.com/Nightmizus/aichemy.club"><strong>aichemy.club</strong></a>：炼丹社 AIchemy 官网，像素科技实验室与 3D 八卦炉首页。
+    <strong>MizuLauncherAura</strong>: 正在积极开发中，敬请期待！
   </p>
 
   <br>

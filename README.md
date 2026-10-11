@@ -2,12 +2,7 @@
 
   <h2>你好！我是 水澄Mizu </h2>
 
-  <h3>当前项目</h3>
-  <p>
-    <strong>MizuLauncherAura</strong>: 正在积极开发中，敬请期待！
-  </p>
-
-  <br>
+  <h3>个人主页：mizusumi.com</h3>
 
   <h3>工具</h3>
 
